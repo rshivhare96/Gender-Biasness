@@ -1,3 +1,24 @@
-# Detecting Gender Biasness in News Artices 
+# Analyzing Gender Bias in Workplace Culture: A Machine Learning Approach
 
-This project aims to detect gender bias in news articles through a combination of unsupervised and supervised machine learning techniques. We started with a dataset containing article titles, content, authors, and news sources, and applied various text analytics and machine learning methods to achieve our goals. The project includes lexicon-based sentiment analysis, gender detection using pronoun matching, and a comprehensive gender bias analysis. Additionally, we employed several machine learning algorithms, including traditional models and deep learning techniques, to predict sentiment and gender representation in news articles. Initial findings indicate a balanced representation of genders across different sentiment categories. Future work will focus on fine-tuning models, incorporating advanced NLP techniques, and exploring additional factors for a more robust gender bias detection system.
+### Project Duration: 
+*Jan 2023 - Jun 2023*
+
+### Associated with: 
+*Brunel University*
+
+## Overview
+As part of my Master's dissertation at XYZ University, this project focused on investigating gender bias within workplace environments through an interdisciplinary approach. By combining sociology with machine learning, the objective was to identify and address implicit gender biases in organizational communication and performance review datasets. This work contributes to the broader conversation on workplace equality and inclusivity.
+
+## Dataset and Methodology
+* A large dataset of anonymized performance reviews and internal communication records from various companies was used.
+* Leveraged **Natural Language Processing (NLP)** and **sentiment analysis** techniques to develop a model capable of detecting biased language patterns and preferential treatment based on gender.
+* The analysis focused on evaluating both overt and subtle gendered language, which often perpetuates stereotypes and creates an inequitable workplace environment.
+
+## Results and Insights
+* The analysis revealed significant gender-based disparities in performance reviews, with male employees receiving more assertive and leadership-oriented language compared to female employees.
+* This suggests implicit biases in evaluation criteria, potentially impacting the career progression and opportunities for female employees.
+* The study provided actionable recommendations for organizations to adopt more neutral and objective evaluation processes, promoting a fair and balanced workplace culture.
+
+## Conclusion
+This project highlights the critical importance of identifying and addressing gender biases in workplace communication and evaluations. By utilizing advanced machine learning models, the findings offer practical insights for organizations to create more equitable work environments.
+
