@@ -7,7 +7,7 @@
 *Brunel University*
 
 ## Overview
-As part of my Master's dissertation at XYZ University, this project focused on investigating gender bias within workplace environments through an interdisciplinary approach. By combining sociology with machine learning, the objective was to identify and address implicit gender biases in organizational communication and performance review datasets. This work contributes to the broader conversation on workplace equality and inclusivity.
+As part of my Master's dissertation at Brunel University, this project focused on investigating gender bias within workplace environments through an interdisciplinary approach. By combining sociology with machine learning, the objective was to identify and address implicit gender biases in organizational communication and performance review datasets. This work contributes to the broader conversation on workplace equality and inclusivity.
 
 ## Dataset and Methodology
 * A large dataset of anonymized performance reviews and internal communication records from various companies was used.
